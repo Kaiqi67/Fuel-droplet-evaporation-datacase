@@ -4,7 +4,7 @@ The Fuel Droplet Evaporation Data Repository is an open database dedicated to co
 
 Fuel droplet evaporation is a fundamental process in combustion science, multiphase flow, atomization, and heat and mass transfer. However, existing experimental data are widely scattered across the literature, often reported only in graphical form and lacking standardized formats for direct comparison or model validation.
 
-This repository addresses this gap by systematically digitizing, organizing, and standardizing droplet evaporation datasets from published studies, enabling direct access to high-fidelity benchmark data.
+This repository addresses this gap by systematically digitizing, organizing droplet evaporation datasets from published studies, enabling direct access to benchmark data.
 
 ## 🎯 Objectives
 
